@@ -1,2 +1,2 @@
 # Feliz Navídad My Friend
-![](docs/screenshot.png)
+![](docs/claus.png)
